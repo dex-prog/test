@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnFgBWf2ULyBq_Fp3z-3wEHnQYhf-EmNCAA&s);
+}
+fieldset { 
+    border: 2px solid black; 
+    padding: 10px;        
+    display: inline-block;   
+    margin: 0;
+} 
+p { font-family: Arial; }
+  h1 {font-size: 40px;
+    font-family: Arial;
+}
+ol { display: inline-block; 
+margin: 5px; 
+padding: 5px; 
+border: 1px solid #000; 
+list-style-type: decimal; 
+}
+  li {
+    font-size: 30px; 
+    font-family: Arial;
+    list-style-position: inside; 
+    }
+
+img {
+    width: 300px; 
+    height: auto; 
+}
+footer {
+    margin-top: 100px; 
+    font-size: 10px;
+    font-family: Arial;
+    font-style: italic
+}
